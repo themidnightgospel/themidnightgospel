@@ -1,7 +1,7 @@
 # Hi, I'm Bitchiko 👋
 
 - Hands on Software Architect / Senior.NET Developer
-- Open Source contributor, author of [Imposter](https://github.com/themidnightgospel/Imposter)
+- Open Source contributor, author of [Imposter](https://github.com/themidnightgospel/Imposter), [Rustaveli.PDF](https://github.com/themidnightgospel/Rustaveli.Pdf)
 - Content creator - checkout [Engineering Waypoint](https://www.youtube.com/@engineeringwaypoint) and [Bitchiko Epxlains (Georgian speaking)](https://www.youtube.com/@bitchikoexplains)
 
 
